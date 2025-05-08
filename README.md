@@ -41,9 +41,6 @@ Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **Mido
   - Handle subscriptions and block access after expiry
   - Track currently running operations in `running_files.json`
 
-- **Mobile Linux Dev**  
-  I code on **Termux** using Ubuntu via `proot-distro login ubuntu`.
-
 ---
 
 ## Projects & Ideas
