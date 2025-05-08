@@ -1,5 +1,11 @@
 # Hi there, I'm Mido Ghanam!
 
+<p>
+  <img src="IMG-20241021-WA0050.jpg" width="200" style="margin-right:10px;" />
+  <img src="link2.png" width="200" style="margin-right:10px;" />
+  <img src="link3.png" width="200" />
+</p>
+
 Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **MidoGhanam** — a 16-year-old Egyptian student, Python developer, and future telecom systems engineer.
 
 ---
