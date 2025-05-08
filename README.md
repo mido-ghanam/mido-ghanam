@@ -1,5 +1,7 @@
 # Hi there, I'm Mido Ghanam!
 
+---
+
 <p>
   <img src="IMG-20241021-WA0050.jpg" width="200" style="margin-right:10px;" />
   <img src="IMG_20250102_101007.jpg" width="200" />
