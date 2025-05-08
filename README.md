@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **Mido
 - **Telegram:** [@midoghanam](https://t.me/midoghanam)  
 - **Website:** [midoghanam2.pythonanywhere.com](https://midoghanam2.pythonanywhere.com/)  
 - **Email:** mghanam883@outlook.com  
-- **Phone:** +20 110 102 3681
+- **Phone:** [+201557449414](https://wa.me/201557449414)
 
 ---
 
@@ -96,7 +96,6 @@ Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **Mido
 - I prefer **2-space indentation**  
 - I don't like **complex decorations** in UI  
 - I store **tokens in the database**, not JSON  
-- I dislike using **models for Quran/Surahs** — I use raw tables  
 - I don’t use unnecessary **comments in code**
 
 ---
