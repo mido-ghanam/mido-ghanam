@@ -1,4 +1,4 @@
-# Hi there, I'm Mido Ghanam!
+# <h2 style="color: silver; font-family: Arial, sans-serif; text-align: center;">Hi there, I'm Mido Ghanam!</h2>
 
 ---
 
