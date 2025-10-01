@@ -89,8 +89,8 @@ Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **Mido
 ## Contact Me
 
 - **Telegram:** [@midoghanam](https://t.me/midoghanam)  
-- **Website:** [midoghanam2.pythonanywhere.com](https://midoghanam2.pythonanywhere.com/)  
-- **Email:** mghanam883@outlook.com  
+- **Website:** [www.midoghanam.site](https://www.midoghanam.site)  
+- **Email:** [midoghanam@hotmail.com](mailto:midoghanam@hotmail.com)
 - **Phone:** [+201063443856](https://wa.me/201063443856)
 
 ---
