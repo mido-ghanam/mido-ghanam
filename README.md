@@ -1,4 +1,4 @@
-# <h2 style="color: silver; font-family: Arial, sans-serif; text-align: center;">Hi there, I'm Mido Ghanam!</h2>
+# <h2 style="color: silver; font-family: Arial, sans-serif; text-align: center;">Hi there, I'm <a herf="https://www.midoghanam.site/" taget="_blank">Mido Ghanam!</a></h2>
 
 ---
 
