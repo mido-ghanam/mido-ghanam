@@ -94,13 +94,12 @@ Welcome to my GitHub profile! I'm **Mohamed Ahmed Ghanam**, also known as **Mido
 - **Phone:** [+201063443856](https://wa.me/201063443856)
 
 ---
+### ⌗ Stats
 
-## Fun Facts
-
-- I prefer **2-space indentation**  
-- I don't like **complex decorations** in UI  
-- I store **tokens in the database**, not JSON  
-- I don’t use unnecessary **comments in code**
+<p align="center"><a href="https://github.com/neoxr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neoxr&show_icons=true&include_all_commits=false&count_private=true&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neoxr&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+</a></p>
 
 ---
 
