@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect width="256" height="256" fill="#242938" rx="60"/>
+    <path fill="rgba(255,255,255,0.05)" d="M0 60 Q0 0 60 0 L196 0 Q256 0 256 60 L256 128 Q128 100 0 128 Z"/>
+    <text x="128" y="150" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#A30000" text-anchor="middle">DRF</text>
+</svg>
